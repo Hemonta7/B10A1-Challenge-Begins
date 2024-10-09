@@ -84,5 +84,198 @@
     font-style: normal;
     font-weight: 600;
     border: none;
+    cursor: pointer;
 }
 
+/* why development section styles */
+.why-development-section {
+    max-width: 1140px;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    margin: 74px auto;
+}
+
+.why-development-tittle {
+    color: #0D1321;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+    padding: 80px 97px 0px 97px;
+}
+
+.why-development-description {
+    color: #0D1321;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    padding: 24px 97px 48px 97px;
+}
+
+/* why development card  */
+.card {
+    display: flex;
+    justify-content: space-between;
+    padding: 48px;
+    background: #FFFFFF;
+    margin: 0px 97px;
+    border-radius: 16px;
+}
+
+.card-tittle {
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    margin-bottom: 16px;
+}
+
+.card-description {
+    color: #0D1321;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 32px;
+}
+
+.card-btn {
+    color: #0D1321;
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    padding: 12px 20px;
+    background: #FFF;
+    border-radius: 8px;
+    opacity: 0.8;
+    border: 1px solid #0D1321;
+    cursor: pointer;
+}
+
+/* my inspiration style related section */
+.my-inspiration-tittle {
+    color: #0D1321;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.my-inspiration-description {
+    color: #0D1321;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0px 294px 48px 294px;
+}
+
+.iframe-section {
+    max-width: 1076px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 151px;
+}
+
+.iframe-section iframe {
+    border: 1px solid rgba(13, 19, 33, 0.20);
+    padding: 24px;
+    border-radius: 16px;
+    width: 1043px;
+    height: 500px;
+}
+
+/* My Current Target style related section */
+.current-target-tittle {
+    color: #0D1321;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 24px;
+}
+
+.current-target-description {
+    color: #0D1321;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 0px 294px 48px 294px;
+
+}
+
+.current-card-container {
+    display: flex;
+    justify-content: space-around;
+    max-width: 1140px;
+    margin: 0 auto;
+    /* gap: 24px; */
+    border-radius: 16px;
+    /* background: rgba(255, 76, 30, 0.05); */
+}
+
+.current-card {
+    gap: 24px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+/* My Next Target styles related section */
+.target-tittle {
+    color: #0D1321;
+    text-align: center;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 800;
+    margin-top: 111px;
+}
+
+.target-description {
+    color: #0D1321;
+    text-align: center;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    margin: 24px 294px;
+}
+
+.target-card {
+    display: flex;
+    gap: 24px;
+    width: 1060px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    background: #FFF;
+    margin: 0 auto;
+    padding: 40px;
+}
+
+.target-card-tittle {
+    color: #0D1321;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 10px;
+}
+
+.target-card-description {
+    color: #0D1321;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    opacity: 0.7;
+    margin-bottom: 24px;
+}
+
+.target-card-a {
+    color: #0D1321;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration-line: underline;
+}
