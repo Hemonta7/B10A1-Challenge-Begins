@@ -138,7 +138,9 @@
     margin-bottom: 20px;
     margin-right: 185px;
 }
-
+.img{
+    margin-right: 36px;
+}
 .card-description {
     color: #0D1321;
     font-size: 16px;
