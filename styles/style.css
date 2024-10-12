@@ -93,6 +93,7 @@
     border-radius: 16px;
     background: rgba(13, 19, 33, 0.02);
     margin: 74px auto;
+    padding-bottom: 80px;
 }
 
 .why-development-tittle {
@@ -137,6 +138,10 @@
     font-weight: 700;
     margin-bottom: 20px;
     margin-right: 185px;
+    /* width: 500px; */
+}
+.hello{
+    width: 500px;
 }
 .img{
     margin-right: 36px;
